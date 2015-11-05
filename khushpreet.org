@@ -112,9 +112,8 @@ While runnig the following command =npm install -g jshint=
 
 It threw error message: 
 
-#+BEGIN SRC python  
-
-npm WARN invalid config proxy="="
+ 
+=npm WARN invalid config proxy="="
 npm WARN invalid config Must be a full url with 'http://'
 npm ERR! Error: EACCES, mkdir '/usr/lib/node_modules/jshint'
 npm ERR!  { [Error: EACCES, mkdir '/usr/lib/node_modules/jshint']
@@ -147,9 +146,8 @@ npm ERR! fstream_stack Object.oncomplete (fs.js:108:15)
 npm ERR! 
 npm ERR! Additional logging details can be found in:
 npm ERR!     /home/khushpreet/Desktop/npm-debug.log
-npm ERR! not ok code 0
+npm ERR! not ok code 0=
 
-#+END SRC 
 
 So I troubleshoot this and got to know that I need to set proxy for =npm= package manager too. 
 Using following
