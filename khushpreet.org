@@ -1,0 +1,167 @@
+#+title:  Work Log for Khushpreet
+
+* 2015
+** October
+
+Task: Converting Data Structure Lab from flash to JavaScript. 
+
+I am working on Number System Experiment of DS Lab. 
+This experiment has 3 simulations: 
+
+1) Binary System - Addition, Multiplication
+2) Roman System - Addition, Multiplication
+3) Unary System - Addition, Multiplication
+
+I have completed all the simulations, with it's functionality and
+design. Binary multiplication functionality is not done yet.
+
+*** [2015-10-22 Thursday]
+
+- Made responsive design for Binary Number System simulation
+- Started animation part for addition in binary number system
+- Exploring a couple of animation libraries. 
+
+*** [2015-10-23 Friday]
+
+- Started implementing unary number system's addition functionality in
+  parallel.
+- Read about animation libraries and tried to implement on addition in
+  simulation. 
+- In progress
+
+*** [2015-10-24 Saturday]
+
+- Completed addition part of binary number system, user can add
+  two binary numbers and view all the steps through animation. 
+- Update the link to make it accesible from main page. 
+- Started implemented multiplication functionality for unary number
+  system.
+
+*** [2015-10-25 Sunday]
+
+- Completed unary number simulation with addition and multiplication
+  without animation.
+- Completed roman number system simulation without animation which I have started last week. 
+
+TODO: 
+- Need to implement animation for all the simulations except
+  binary addition.
+- Need to implement binary addition. 
+- Need to test simulations.
+
+
+*** [2015-10-29 Thursday]
+
+Main Task: Animation for simulation
+
+- I tried move.js and animate() for the animation in unary addition.
+  but I could not get final output from it. 
+
+- I tried "animate.css", animate.css is a bunch of cool, and
+  cross-browser animations which I found is exactly fulfilling my
+  requirement for animation. and it's easy to use than  other libraries. 
+
+*** [2015-10-30 Friday]
+
+- I read little about jQuery because it uses jquery for animations
+  before implementing it. then I started implementing animation for
+  basic example which I can use as a reference for actual simulation.
+
+Link to repo: https://github.com/khushpreet-kaur/toy-example-animation
+
+
+** November 
+*** [2015-11-02 Monday]
+
+Main task: Linting tool for JavaScript
+
+I started looking into different linting tools like JsLint and JsHint.
+JSLint was the main linting tool for JavaScript. JSHint was a new fork
+of JSLint, but had not yet diverged much from the original.
+
+Why to use JsHint instead of JsLint? 
+
+JSLint has remained pretty much static, while JSHint has changed a
+great deal - it has thrown away many of JSLint's more antagonistic
+rules, has added a whole load of new rules, and has generally become
+more flexible.
+
+
+Technical difficulties: I started configuring =JsHint= to
+=sublime= first. because of proxy settings, It did not allow me to install
+=package control= autmatically.
+
+=Package control= is responsible for all the packeges in sublime like
+enabling, disabling, installing packages etc.
+
+I tried installing that manually. but when i tried installing the
+downloaded packages it again showed error message "No packages to
+install".
+
+It seems the =installed packages= directory was not giving permission
+to =package conrtrol= to access it.
+
+I could not configure it on Sublime. 
+
+*** [2015-11-03 Tuesday]
+
+I started configuring JsHint on vim by folowing
+http://jshint.com/install/ documnetaion.
+
+While runnig the following command =npm install -g jshint=
+
+It threw error message: 
+
+#+BEGIN SRC example 
+npm WARN invalid config proxy="="
+npm WARN invalid config Must be a full url with 'http://'
+npm ERR! Error: EACCES, mkdir '/usr/lib/node_modules/jshint'
+npm ERR!  { [Error: EACCES, mkdir '/usr/lib/node_modules/jshint']
+npm ERR!   errno: 3,
+npm ERR!   code: 'EACCES',
+npm ERR!   path: '/usr/lib/node_modules/jshint',
+npm ERR!   fstream_type: 'Directory',
+npm ERR!   fstream_path: '/usr/lib/node_modules/jshint',
+npm ERR!   fstream_class: 'DirWriter',
+npm ERR!   fstream_stack: 
+npm ERR!    [ '/usr/lib/node_modules/npm/node_modules/fstream/lib/dir-writer.js:36:23',
+npm ERR!      '/usr/lib/node_modules/npm/node_modules/mkdirp/index.js:46:53',
+npm ERR!      'Object.oncomplete (fs.js:108:15)' ] }
+npm ERR! 
+npm ERR! System Linux 3.13.0-64-generic
+npm ERR! command "/usr/bin/node" "/usr/bin/npm" "install" "-g" "jshint"
+npm ERR! cwd /home/khushpreet/Desktop/toy-example-animation
+npm ERR! node -v v0.10.40
+npm ERR! npm -v 1.4.28
+npm ERR! path /usr/lib/node_modules/jshint
+npm ERR! fstream_path /usr/lib/node_modules/jshint
+npm ERR! fstream_type Directory
+npm ERR! fstream_class DirWriter
+npm ERR! code EACCES
+npm ERR! errno 3
+npm ERR! stack Error: EACCES, mkdir '/usr/lib/node_modules/jshint'
+npm ERR! fstream_stack /usr/lib/node_modules/npm/node_modules/fstream/lib/dir-writer.js:36:23
+npm ERR! fstream_stack /usr/lib/node_modules/npm/node_modules/mkdirp/index.js:46:53
+npm ERR! fstream_stack Object.oncomplete (fs.js:108:15)
+npm ERR! 
+npm ERR! Additional logging details can be found in:
+npm ERR!     /home/khushpreet/Desktop/npm-debug.log
+npm ERR! not ok code 0
+#+END SRC example
+
+So I troubleshoot this and got to know that I need to set proxy for =npm= package manager too. 
+Using following
+ 
+#+BEGIN SRC 
+npm config set proxy = "http://proxy.iiit.ac.in:8080"
+
+npm config set https-proxy="http://proxy.iiit.ac.in:8080
+#+END SRC 
+
+and I was able to configure it on =vim= after updating vim's packages too. 
+*** [2015-11-04 Wednesday] 
+- Attended performance review meeting. 
+
+- Attended weekly integration team meeting. 
+
+- Drafted meeting minutes.
