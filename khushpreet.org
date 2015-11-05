@@ -112,7 +112,7 @@ While runnig the following command =npm install -g jshint=
 
 It threw error message: 
 
-#+BEGIN SRC bash 
+#+BEGIN SRC python  
 
 npm WARN invalid config proxy="="
 npm WARN invalid config Must be a full url with 'http://'
