@@ -165,3 +165,11 @@ and I was able to configure it on =vim= after updating vim's packages too.
 - Attended weekly integration team meeting. 
 
 - Drafted meeting minutes.
+
+*** [2015-11-05 Thursday]
+Leave 
+
+*** [2015-11-06 Friday]
+
+- Integrated experiemnt 7th (Graph Traversals) to lab's main page. 
+- Tested and corrected all other links of the lab's page and its corresponding simulations. [9:35-10:03]
