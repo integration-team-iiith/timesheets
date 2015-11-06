@@ -170,6 +170,30 @@ and I was able to configure it on =vim= after updating vim's packages too.
 Leave 
 
 *** [2015-11-06 Friday]
+In Time: 08:50, Out Time: 06:15
 
 - Integrated experiemnt 7th (Graph Traversals) to lab's main page. 
 - Tested and corrected all other links of the lab's page and its corresponding simulations. [9:35-10:03]
+
+[10:06 - 12:35]
+- Testing cp lab on ubuntu 14.04 (elementary OS 0.3.1 Freya (64-bit)) - Firefox, Chrome, midori
+
+[01:40-3:30]
+- Continue function testing for computer programming lab along with the document. 
+
+[03:30-03:50]
+- Discussion with Thirumal regarding integration work. 
+- Discussed about brief QA testing, Hosting and integration process work flow. 
+- Also, Thirumal asked me to understand the QA workflow and talk to Sanchita regarding today's 
+  discussion of QA team with Prof. Venkatesh Choppella.
+
+[04:00-5:25]
+- Continue functional testing for Computer porogramming lab. 
+
+[05:25-06:00] 
+- Discussion on QA and hosting workflow from document, checked in at =vlead/tasks/roadmap/src/qa_process_for_integration.org= with Sanchita. 
+
+[06:00-06:12]
+- Timesheet
+
+
