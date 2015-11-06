@@ -188,7 +188,7 @@ In Time: 08:50, Out Time: 06:15
   discussion of QA team with Prof. Venkatesh Choppella.
 
 [04:00-5:25]
-- Continue functional testing for Computer porogramming lab. 
+- Continue functional testing for Computer porogramming lab. Still In Progress.
 
 [05:25-06:00] 
 - Discussion on QA and hosting workflow from document, checked in at =vlead/tasks/roadmap/src/qa_process_for_integration.org= with Sanchita. 
