@@ -202,4 +202,4 @@ In Time: 09:00, Out Time:
 [09:30-12:55]
 - Completed all the functional test cases for Computer Programming lab.
 - Found out "Computer science and Engineering" course on NPTEL relevant to "computer programming lab". 
-- Relevant topics: Array, Recursion, String, Functions, Structures.
+- Relevant topics: Array, Recursion, String, Functions, Structures. Link: http://nptel.ac.in/syllabus/106105085/
