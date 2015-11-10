@@ -73,7 +73,7 @@ Link to repo: https://github.com/khushpreet-kaur/toy-example-animation
 ** November 
 *** [2015-11-02 Monday]
 
-Main task: Linting tool for JavaScript
+Main task: [[docs/LintingtoolforJavaScript-Jshint.pdf][Linting tool for JavaScript]
 
 I started looking into different linting tools like JsLint and JsHint.
 JSLint was the main linting tool for JavaScript. JSHint was a new fork
