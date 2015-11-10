@@ -197,9 +197,25 @@ In Time: 08:50, Out Time: 06:15
 - Timesheet
 
 *** [2015-11-09 Monday]
-In Time: 09:00, Out Time:
+In Time: 09:00, Out Time: 06:00
 
 [09:30-12:55]
 - Completed all the functional test cases for Computer Programming lab.
 - Found out "Computer science and Engineering" course on NPTEL relevant to "computer programming lab". 
 - Relevant topics: Array, Recursion, String, Functions, Structures. Link: http://nptel.ac.in/syllabus/106105085/
+
+[2:00-5:00]
+- Implementing multiplication functionality for binary system.
+
+[5:30-06:00]
+- In Progress.
+
+*** [2015-11-10 Monday]
+In Time: 09:00, Out Time: 
+
+[9:30- ]
+- Implementing same functionality along with input number validation. 
+- Also, trying to make animation on single page for this experiment. 
+
+
+
