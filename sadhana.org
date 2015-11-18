@@ -81,3 +81,22 @@ Followed with the last week work on testing the source files. Met professor¡¯s r
 ** 24th to 26th august
 Earlier I have checked the source files in git and bitbucket, So I got to know the few labs are missing with source files. Later as system team suggested to check for the source files in base4 machine, so again I followed the same process for checking the source files.
    
+** 1st  sep to 30th sep
+- Explored Eclipse and Java Decompilers to get the sources of the experiments, as there are no actual sources present in the github and bitbucket.
+- Started working on decompiling sources for the pattern recongnition lab.This lab has 8 experiments, and none of the experiment has source file in either in github and bitbucket.
+- Completed the task to get the source files of the pattern Recognition lab.
+- Rectified the expections and errors for the experiments, then compared the experiment simulation in eclipse with the original experiment to know whether the simulation is working exactly after decompiling.
+  
+** 1st Oct to 31st Oct
+- Tested the  Pattern Recognition Lab with integration levels(Level 6), upadated the new makefile. Done QA for all the experiments in this lab and made a workreport.
+- Sent a request for hosting the lab, without losing the previous Analytics.
+- started working on converting the experiment from flash to javascript(for 2nd experiment from Data Structures Lab) 
+- Done UI design for the experiment simulation.
+- Explored on javaScript, jquery.
+- Started Implementing the javascript for the simulation and its not yet done completely, as I'm exploring and implementing parralely.
+
+** 1st Nov to 18th Nov 
+- Collated the list of technologies for the 20 labs for Giritej - Since we need to send the list for Giritej, so that he will get familiar with these technologies.
+- Continued with flash to javascript conversion(Expression Evaluation Experiment), implemented functionality part for the experiment, exploring javascript libraries which will be useful for implementing animations for the experiment simulation.
+
+
