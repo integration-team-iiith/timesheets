@@ -1,0 +1,83 @@
+* Worklog For Sadhana From Feb 2015
+
+** 26thFeb & 27th Feb
+I have referred linux course from edx online course.  I haven't completely learned about linux, I¡¯m still  in a learning process.
+
+** 2nd Mar- 6th March
+I was given a task to install and set the path for java and java 3D on windows 7. I have successfully installed java and I have worked on java 3D too but I was unsuccessful at that point.  But later on I got to know how to set the path for java 3D, now I am good with that work. Parallely I was learning linux too and now I¡¯m pretty good and comfortable working with linux.
+
+** 9th Mar- 13th Mar
+I have learned how to deploy the labs and run over localhost.  I have learned about openVZ and how to run the labs over ADS.  Meanwhile I have tested the labs on localhost and ADS.  The labs which I tested was Digital Logic Design and Electromagnetic Theory( from the first set of labs).
+
+** 16th Mar -20th Mar
+I was working on QA and I was testing all the labs (120+ labs) from  www.vlab.co.in .The whole testing for the labs has been done manually.
+
+** 23rd Mar - 27th Mar
+Continued with the QA work. I have tested all the labs form vlab.co.in and made a report for those labs.
+
+** 30th Mar-2nd Apr
+I have started working on QA for IIITH labs followed with the test cases.  I was assigned to test 20 labs.(these are the labs from first set).
+
+** 6th Apr-10th Apr
+I was continuing with the last week work. Along with that I was given a work to test the labs which are being used in a workshop and done report for those labs. I went for workshop which was held on 8th April.
+
+** 13th to 17th Apr    
+I have deployed the 7 labs from the second set of prioritized labs following the integration levels. The seven labs which I deployed was Natural Language Processing, Colloid and Surface Chemistry,Molecular Absorption Spectroscopy, Molecular Interactions,Geotechnical Engineering Lab,Computational Linguistics,Structural Dynamics .Parallely worked on QA for IIITH labs. I have tested the few labs from first set  which works on java 3D over ADS.
+
+** 20th to 24th Apr  
+I worked on installing java on ubuntu and  done a documentation on it. Parallely working on QA.
+
+** 26th apr to 1st may
+I worked on QA for IIITH labs and done a report for those labs. Started integration process for the next set of labs. I have deployed the 6 labs in those I moved  3 labs from level1 to level 5.
+
+** 2nd may to 6th may    
+Raised issues for the IIITH labs, for those having repositories on Github. I was learning other technologies as well.
+
+** 9th may to 16th may
+Continued with integration process. Done a documentation on QA. I have done separate sheets on QA for the institutes in vlab.co.in. This was done earlier but the process I followed was not that satisfactory, so again I have tested the labs for all the domains with test cases for each and every lab. 
+
+** 18th may to 25th may
+I have started working on QA for the next 16 set of prioritized labs which are at level 5. I was assigned to do QA worksheet for the first set of  IIITH labs.
+
+** 26th may to 30th may    
+Continued with the integration process for 2nd set of IIITH labs. Now 10 labs are at level 5. Parallely doing QA for the level 5 labs.
+
+** 01st june to 5th june
+"Worked on QA for 2nd set of prioritized labs. Done with QA for 4 labs. Also worked on deploying 2nd set of prioritized labs, which are having issues while running on ADS.
+
+** 8th june to 12th june
+Continued with the QA work and integration process .                                                                                                                                                                                                                                                                       Done QA for 4 labs.                                                                                                                                                                                                                                                                                                                               In 2nd of prioritized labs, now 13 labs are at level 5.
+
+** 15th to 19th june
+Done with QA work for 5 labs. By this week completed the QA for 13 labs, which are at level 5.
+
+** 22nd to 26th june
+Working on moving all the 13 labs from level 5 to level 6. I was also assigned with the work to update the syllabus list.( labs or subjects which are covered in their  respective universities.)
+
+** 29th june to 3rd july    
+started listing out all the IIITH labs that has client side dependencies, and check if the experiments[i.e simulations] have the actual source code or not.
+
+** 6th to 10th july
+Checked the complete source files of the labs, because earlier we have checked the source code for simulations only as we are not aware to check the complete source codes of the labs.
+
+** 13th to 17th july
+Mentioned the test environment for the labs while performing manual testing and update on to the test report and Identified the bugs in the experiments[simulations] and raise an issue on github on the respective lab repositories. Listed out the technology used by labs at experiment level List out the sources files that are available/unavailable and sent mails to the respective lab developers asking for sources
+
+** 20th to 24th july
+I was assigned with a work to write makefiles for the labs( From the first set of labs) which are having complete source files.
+
+** 27th to 31st july
+Met Prof. Pradeep regarding this missing source files and got the source code of four labs. Each lab have maximum 10 experiments, I have tested .fla files and .java files to check whether they are actual source code or not. 
+
+** 3rd to 7th August
+Worked on vlabs new landing page, like updating the links, images and creating a templates based on the default template.
+     
+** 10th to 14th august
+Met professors and the lab developers, regarding the missing source files of the labs. Whatever the sources I got from the respective lab developer I have tested once to check whether they are actual source code or not.    
+
+** 17th to 21st august 
+Followed with the last week work on testing the source files. Met professor¡¯s regarding this source files.
+  
+** 24th to 26th august
+Earlier I have checked the source files in git and bitbucket, So I got to know the few labs are missing with source files. Later as system team suggested to check for the source files in base4 machine, so again I followed the same process for checking the source files.
+   
