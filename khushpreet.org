@@ -205,17 +205,28 @@ In Time: 09:00, Out Time: 06:00
 - Relevant topics: Array, Recursion, String, Functions, Structures. Link: http://nptel.ac.in/syllabus/106105085/
 
 [2:00-5:00]
-- Implementing multiplication functionality for binary system.
+- Implementing multiplication functionality for binary, unary system.
 
 [5:30-06:00]
 - In Progress.
 
-*** [2015-11-10 Monday]
-In Time: 09:00, Out Time: 
+*** [2015-11-10 Tuesday]
+In Time: 09:00, Out Time: 06:00
 
-[9:30- ]
-- Implementing same functionality along with input number validation. 
+- Implementing unary addition along with input number validation. 
 - Also, trying to make animation on single page for this experiment. 
 
+*** [2015-11-16 Monday]
+In Time: 09:00, Out Time: 
 
+- Implement unary addition simulation. 
+- Tested animation and found validation is not done properly, so fix
+  that along with animation part. 
 
+*** [2015-11-17 Tuesday]
+In Time: 09:00 Out Time: 05:45
+
+- Finished Unary System simulation.  
+
+  includes: Unary addition + unary multiplication along with design
+  and animation.
