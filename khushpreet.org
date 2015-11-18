@@ -215,6 +215,7 @@ In Time: 09:00, Out Time: 06:00
 
 - Implementing unary addition along with input number validation. 
 - Also, trying to make animation on single page for this experiment. 
+- Tried to get same theme for simulations.
 
 *** [2015-11-16 Monday]
 In Time: 09:00, Out Time: 
@@ -230,3 +231,5 @@ In Time: 09:00 Out Time: 05:45
 
   includes: Unary addition + unary multiplication along with design
   and animation.
+- As the source code or theme is not available, it's difficult to replicate the same UI for 
+  simulations. So again switched back to the new UI.
