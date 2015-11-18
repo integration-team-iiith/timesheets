@@ -84,14 +84,18 @@ Worked on moving the first set of labs which have complete source files from lev
 Cross check each and every lab’s source code. Push all the recover sources back to github repositories carefully. Prepare list of labs with latest detail of source code availability. Update the Makefile with respect to decompiled .java code and move the 13labs  from level1 to level6 from 1st set of labs 
 
 ** 7th Sep to 9th Sep	
-"Decompilation of .class files of two labs. Two experiments of two different labs Solved errors of exp3 of computer organization lab.
-Test Physical chmistry lab"
+Worked along with soujanya in Decompiling .class files of Computer organization lab.
+Checked and collected the Physical chmistry lab sources from bitbucket"
 
 ** 9Sep to 16th Sep
-Collect and Document the status of all IIITH labs
+Collect and Document the status of all IIITH labs.
+Installed Eclipse in local machine for testing the sources of physical chemistry lab. 
 	
 ** 7th Oct to 28th Oct
-Set up Java 3D on local machine to run physical Chemistry Lab. Working on Data Structures 3rd experiment ( Flash to Js)
+Set up Java 3D on local machine to run physical Chemistry Lab. 
+Decomplied physical chemistry .class files and tested on local machine using eclipse.
+There are many errors in the code internally. Most of the errors got resolved. But there is no proper decaration of method.
+Working on Data Structures 3rd experiment ( Flash to Js)
 
 ** 28th Oct to 4th Nov
 Make a sheet with detailed info of lab’s technologies, current status and with TODO list : Corresponding technologies experiment wise .
