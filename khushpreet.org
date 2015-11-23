@@ -27,7 +27,7 @@ design. Binary multiplication functionality is not done yet.
   parallel.
 - Read about animation libraries and tried to implement on addition in
   simulation. 
-- In progress
+- In progress [explored work was implemented on Saturday and Sunday]
 
 *** [2015-10-24 Saturday]
 
