@@ -1,0 +1,22 @@
+#+title:  Work Log for Giritheja
+
+* 2015
+** December
+
+Task : Converting Computer Organisation lab from Flash to JS
+
+This lab has 3 flash experiments and 4 Java Implementations.
+
+	1) Representation of integers and their arithmetic - Flash
+	2) Floating Point numbers representation - Flash
+	3) Cache organisation - Java
+	4) Virtual Memory - Java
+	5) MIPS assembly Level programming language I & II - Java
+	6) ARM assembly level Language Programming I & II - Java
+	7) Single Cycle MIPS CPU - Flash
+
+*** [2015-12-09 - 2015-12-13]
+
+	- Wrote testcases for all flash experiments in the lab.
+	- Compiled a report on technologies used in each experiment of the lab.
+	- Read a research paper on using tools such as Swiffy, Wallaby etc. and concluded it is better to write the code from Scratch in JS.
