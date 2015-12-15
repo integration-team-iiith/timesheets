@@ -24,3 +24,7 @@ This lab has 3 flash experiments and 4 Java Implementations.
 *** [2015-12-14 - Monday]
 	- Completed the conversion of the experiment 1 except for the styling part.
 	- Started working on the styling part of the experiment.
+*** [2015-12-15 - Tuesday]
+	- Completed the conversion of experiment 1 with the styling part. <https://github.com/Virtual-Labs/computer-organization-responsive-lab/tree/master/exp1>
+	- Wrote testcases for Experiment 1. <https://github.com/integration-team-iiith/integration-backup/tree/master/test-cases-2015>
+	- Started working on Experiment 2, Completed Quick tutorial guide part of the experiment.
