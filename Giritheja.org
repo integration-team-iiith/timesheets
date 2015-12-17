@@ -30,3 +30,5 @@ This lab has 3 flash experiments and 4 Java Implementations.
 	- Started working on Experiment 2, Completed Quick tutorial guide part of the experiment.
 *** [2015-12-16 - Wednesday]
 	-Completed the part 1 of experiment 2. Started Part 2 of the experiment 2
+*** [2015-12-17 - Thursday]
+	-Completed the part 2 of experiment 2. Started working on the styling of the experiment.
