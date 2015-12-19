@@ -35,3 +35,7 @@ This lab has 3 flash experiments and 4 Java Implementations.
 *** [2015-12-18 - Friday]
 	-Completed experiment 2 with styling.
 	-Updated Css of experiment 1.
+*** [2015-12-19 - Saturday]
+	- Went through equivalence partition and all-pair methods.
+	- Wrote the testcases for the exp2-responsive.
+	- Updated testcases for exp1-responsive.
