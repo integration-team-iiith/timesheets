@@ -46,3 +46,6 @@ This lab has 3 flash experiments and 4 Java Implementations.
 *** [2015-12-22 - Tuesday]
 	- Worked on Exp9 got the basic functionality up and running.
 	- Going through the theory of Computer Organisation in order to define the complete functionality of Exp9. 
+*** [2015-12-23 - Wesnesday]
+	- Completed the animation part of the experiment.
+	- Implementing the functionality part of the experiment.
