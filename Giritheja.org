@@ -49,3 +49,6 @@ This lab has 3 flash experiments and 4 Java Implementations.
 *** [2015-12-23 - Wesnesday]
 	- Completed the animation part of the experiment.
 	- Implementing the functionality part of the experiment.
+*** [2016-01-02 - 2016-01-03 ]
+	- Implemented the result table functionality on the main page.
+	- Updated help tabs of the experiment.
