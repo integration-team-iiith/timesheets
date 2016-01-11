@@ -52,3 +52,7 @@ This lab has 3 flash experiments and 4 Java Implementations.
 *** [2016-01-02 - 2016-01-03 ]
 	- Implemented the result table functionality on the main page.
 	- Updated help tabs of the experiment.
+*** [2016-01-09 - 2016-01-10 ]
+	- Implemented Instruction box of the experiment.
+	- Implemented Control Signal box of the experiment.
+	- Completed almost 75% conversion of the experiment.
